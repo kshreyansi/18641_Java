@@ -1,0 +1,64 @@
+[Console output redirected to file:C:\Users\Shreyanshi\Desktop\CoinTest_Output.txt]
+Side initially facing up before the toss heads
+heads
+tails
+heads
+tails
+tails
+heads
+tails
+heads
+tails
+tails
+Number of heads = 4 Number of tails =  6
+[Console output redirected to file:C:\Users\Shreyanshi\Desktop\CoinTest_Output.txt]
+Side initially facing up before the toss heads
+tails
+tails
+heads
+heads
+heads
+tails
+tails
+tails
+heads
+heads
+heads
+heads
+tails
+heads
+heads
+heads
+tails
+tails
+heads
+tails
+Number of heads = 11 Number of tails =  9
+[Console output redirected to file:C:\Users\Shreyanshi\Desktop\CoinTest_Output.txt]
+Side initially facing up before the toss heads
+heads
+heads
+heads
+tails
+heads
+heads
+tails
+heads
+tails
+heads
+heads
+heads
+heads
+heads
+heads
+tails
+tails
+heads
+heads
+tails
+heads
+tails
+tails
+heads
+heads
+Number of heads = 17 Number of tails =  8

@@ -1,0 +1,24 @@
+2016/02/04 11:38:48 
+Incorrect File Directory
+2016/02/04 11:39:19 
+Base price missing
+2016/02/04 11:40:40
+ 
+Option Set Name missing
+2016/02/04 11:41:56
+ 
+Option Set Name missing
+
+2016/02/04 11:43:01
+ 
+Option Name missing
+
+2016/02/04 11:43:47
+ 
+Option price missing
+
+
+2016/02/04 11:45:09
+ 
+Option price missing
+

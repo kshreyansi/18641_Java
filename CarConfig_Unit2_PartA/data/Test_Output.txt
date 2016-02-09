@@ -1,0 +1,431 @@
+1)TEST CASE-1(HAPPY PATH)
+
+Model: FordZTW
+Base Price: $18445.0
+
+Color: 
+Fort Knox Gold Clearcoat Metallic : $0.0
+Liquid Grey Clearcoat Metallic : $0.0
+Infra-Red Clearcoat : $0.0
+Grabber Green Clearcoat Metallic : $0.0
+Sangria Red Clearcoat Metallic : $0.0
+French Blue Clearcoat Metallic : $0.0
+Twilight Blue Clearcoat Metallic : $0.0
+CD Silver Clearcoat Metallic : $0.0
+Pitch Black Clearcoat : $0.0
+Cloud 9 White Clearcoat : $0.0
+
+Transmission: 
+automatic : $0.0
+standard : $-815.0
+
+Brakes/Traction Control: 
+Standard : $0.0
+ABS : $400.0
+ABS with Advance Trac : $1625.0
+
+Side Impact Air Bags: 
+present : $350.0
+not present : $0.0
+
+Power Moonroof: 
+present : $595.0
+not present : $0.0
+
+
+Finished updating "Side Impact Air Bags":
+
+Model: FordZTW
+Base Price: $18445.0
+
+Color: 
+Fort Knox Gold Clearcoat Metallic : $0.0
+Liquid Grey Clearcoat Metallic : $0.0
+Infra-Red Clearcoat : $0.0
+Grabber Green Clearcoat Metallic : $0.0
+Sangria Red Clearcoat Metallic : $0.0
+French Blue Clearcoat Metallic : $0.0
+Twilight Blue Clearcoat Metallic : $0.0
+CD Silver Clearcoat Metallic : $0.0
+Pitch Black Clearcoat : $0.0
+Cloud 9 White Clearcoat : $0.0
+
+Transmission: 
+automatic : $0.0
+standard : $-815.0
+
+Brakes/Traction Control: 
+Standard : $0.0
+ABS : $400.0
+ABS with Advance Trac : $1625.0
+
+Air Bags: 
+present : $99.0
+not present : $0.0
+
+Power Moonroof: 
+present : $595.0
+not present : $0.0
+
+2)TEST CASE-2(NEGATIVE TESTING-HANDLE AND FIX THE FOLLOWING EXCEPTION)
+
+Give the correct file directory:
+C:/Users/Shreyanshi/Desktop/FordZTW.txt
+
+Model: FordZTW
+Base Price: $18445.0
+
+Color: 
+Fort Knox Gold Clearcoat Metallic : $0.0
+Liquid Grey Clearcoat Metallic : $0.0
+Infra-Red Clearcoat : $0.0
+Grabber Green Clearcoat Metallic : $0.0
+Sangria Red Clearcoat Metallic : $0.0
+French Blue Clearcoat Metallic : $0.0
+Twilight Blue Clearcoat Metallic : $0.0
+CD Silver Clearcoat Metallic : $0.0
+Pitch Black Clearcoat : $0.0
+Cloud 9 White Clearcoat : $0.0
+
+Transmission: 
+automatic : $0.0
+standard : $-815.0
+
+Brakes/Traction Control: 
+Standard : $0.0
+ABS : $400.0
+ABS with Advance Trac : $1625.0
+
+Side Impact Air Bags: 
+present : $350.0
+not present : $0.0
+
+Power Moonroof: 
+present : $595.0
+not present : $0.0
+
+
+Finished updating "Side Impact Air Bags":
+
+Model: FordZTW
+Base Price: $18445.0
+
+Color: 
+Fort Knox Gold Clearcoat Metallic : $0.0
+Liquid Grey Clearcoat Metallic : $0.0
+Infra-Red Clearcoat : $0.0
+Grabber Green Clearcoat Metallic : $0.0
+Sangria Red Clearcoat Metallic : $0.0
+French Blue Clearcoat Metallic : $0.0
+Twilight Blue Clearcoat Metallic : $0.0
+CD Silver Clearcoat Metallic : $0.0
+Pitch Black Clearcoat : $0.0
+Cloud 9 White Clearcoat : $0.0
+
+Transmission: 
+automatic : $0.0
+standard : $-815.0
+
+Brakes/Traction Control: 
+Standard : $0.0
+ABS : $400.0
+ABS with Advance Trac : $1625.0
+
+Air Bags: 
+present : $99.0
+not present : $0.0
+
+Power Moonroof: 
+present : $595.0
+not present : $0.0
+
+
+3)TEST CASE-3(NEGATIVE TESTING-HANDLE AND FIX THE FOLLOWING EXCEPTION)
+
+Give a base price:
+18445
+
+Model: FordZTW
+Base Price: $18445.0
+
+Color: 
+Fort Knox Gold Clearcoat Metallic : $0.0
+Liquid Grey Clearcoat Metallic : $0.0
+Infra-Red Clearcoat : $0.0
+Grabber Green Clearcoat Metallic : $0.0
+Sangria Red Clearcoat Metallic : $0.0
+French Blue Clearcoat Metallic : $0.0
+Twilight Blue Clearcoat Metallic : $0.0
+CD Silver Clearcoat Metallic : $0.0
+Pitch Black Clearcoat : $0.0
+Cloud 9 White Clearcoat : $0.0
+
+Transmission: 
+automatic : $0.0
+standard : $-815.0
+
+Brakes/Traction Control: 
+Standard : $0.0
+ABS : $400.0
+ABS with Advance Trac : $1625.0
+
+Side Impact Air Bags: 
+present : $350.0
+not present : $0.0
+
+Power Moonroof: 
+present : $595.0
+not present : $0.0
+
+
+Finished updating "Side Impact Air Bags":
+
+Model: FordZTW
+Base Price: $18445.0
+
+Color: 
+Fort Knox Gold Clearcoat Metallic : $0.0
+Liquid Grey Clearcoat Metallic : $0.0
+Infra-Red Clearcoat : $0.0
+Grabber Green Clearcoat Metallic : $0.0
+Sangria Red Clearcoat Metallic : $0.0
+French Blue Clearcoat Metallic : $0.0
+Twilight Blue Clearcoat Metallic : $0.0
+CD Silver Clearcoat Metallic : $0.0
+Pitch Black Clearcoat : $0.0
+Cloud 9 White Clearcoat : $0.0
+
+Transmission: 
+automatic : $0.0
+standard : $-815.0
+
+Brakes/Traction Control: 
+Standard : $0.0
+ABS : $400.0
+ABS with Advance Trac : $1625.0
+
+Air Bags: 
+present : $99.0
+not present : $0.0
+
+Power Moonroof: 
+present : $595.0
+not present : $0.0
+
+4)TEST CASE-4(NEGATIVE TESTING-HANDLE AND FIX THE FOLLOWING EXCEPTION)
+
+Give a name for OptionSet:
+Color
+
+Model: FordZTW
+Base Price: $18445.0
+
+Color: 
+Fort Knox Gold Clearcoat Metallic : $0.0
+Liquid Grey Clearcoat Metallic : $0.0
+Infra-Red Clearcoat : $0.0
+Grabber Green Clearcoat Metallic : $0.0
+Sangria Red Clearcoat Metallic : $0.0
+French Blue Clearcoat Metallic : $0.0
+Twilight Blue Clearcoat Metallic : $0.0
+CD Silver Clearcoat Metallic : $0.0
+Pitch Black Clearcoat : $0.0
+Cloud 9 White Clearcoat : $0.0
+
+Transmission: 
+automatic : $0.0
+standard : $-815.0
+
+Brakes/Traction Control: 
+Standard : $0.0
+ABS : $400.0
+ABS with Advance Trac : $1625.0
+
+5)TEST CASE-5(NEGATIVE TESTING-HANDLE AND FIX THE FOLLOWING EXCEPTION)
+
+Give a name for Option:
+present
+
+Model: FordZTW
+Base Price: $18445.0
+
+Color: 
+Fort Knox Gold Clearcoat Metallic : $0.0
+Liquid Grey Clearcoat Metallic : $0.0
+Infra-Red Clearcoat : $0.0
+Grabber Green Clearcoat Metallic : $0.0
+Sangria Red Clearcoat Metallic : $0.0
+French Blue Clearcoat Metallic : $0.0
+Twilight Blue Clearcoat Metallic : $0.0
+CD Silver Clearcoat Metallic : $0.0
+Pitch Black Clearcoat : $0.0
+Cloud 9 White Clearcoat : $0.0
+
+Transmission: 
+automatic : $0.0
+standard : $-815.0
+
+Brakes/Traction Control: 
+Standard : $0.0
+ABS : $400.0
+ABS with Advance Trac : $1625.0
+
+Side Impact Air Bags: 
+present: $350.0
+not present : $0.0
+
+Power Moonroof: 
+present : $595.0
+not present : $0.0
+
+
+Finished updating "Side Impact Air Bags":
+
+Model: FordZTW
+Base Price: $18445.0
+
+Color: 
+Fort Knox Gold Clearcoat Metallic : $0.0
+Liquid Grey Clearcoat Metallic : $0.0
+Infra-Red Clearcoat : $0.0
+Grabber Green Clearcoat Metallic : $0.0
+Sangria Red Clearcoat Metallic : $0.0
+French Blue Clearcoat Metallic : $0.0
+Twilight Blue Clearcoat Metallic : $0.0
+CD Silver Clearcoat Metallic : $0.0
+Pitch Black Clearcoat : $0.0
+Cloud 9 White Clearcoat : $0.0
+
+Transmission: 
+automatic : $0.0
+standard : $-815.0
+
+Brakes/Traction Control: 
+Standard : $0.0
+ABS : $400.0
+ABS with Advance Trac : $1625.0
+
+Air Bags: 
+present: $350.0
+not present : $0.0
+
+Power Moonroof: 
+present : $595.0
+not present : $0.0
+
+
+6)TEST CASE-6(NEGATIVE TESTING-HANDLE AND FIX THE FOLLOWING EXCEPTION)
+
+Give input of the missing price of the Option:
+595
+
+Model: FordZTW
+Base Price: $18445.0
+
+Color: 
+Fort Knox Gold Clearcoat Metallic : $0.0
+Liquid Grey Clearcoat Metallic : $0.0
+Infra-Red Clearcoat : $0.0
+Grabber Green Clearcoat Metallic : $0.0
+Sangria Red Clearcoat Metallic : $0.0
+French Blue Clearcoat Metallic : $0.0
+Twilight Blue Clearcoat Metallic : $0.0
+CD Silver Clearcoat Metallic : $0.0
+Pitch Black Clearcoat : $0.0
+Cloud 9 White Clearcoat : $0.0
+
+Transmission: 
+automatic : $0.0
+standard : $-815.0
+
+Brakes/Traction Control: 
+Standard : $0.0
+ABS : $400.0
+ABS with Advance Trac : $1625.0
+
+Side Impact Air Bags: 
+present : $350.0
+not present : $0.0
+
+Power Moonroof: 
+present : $595.0
+not present : $0.0
+
+
+Finished updating "Side Impact Air Bags":
+
+Model: FordZTW
+Base Price: $18445.0
+
+Color: 
+Fort Knox Gold Clearcoat Metallic : $0.0
+Liquid Grey Clearcoat Metallic : $0.0
+Infra-Red Clearcoat : $0.0
+Grabber Green Clearcoat Metallic : $0.0
+Sangria Red Clearcoat Metallic : $0.0
+French Blue Clearcoat Metallic : $0.0
+Twilight Blue Clearcoat Metallic : $0.0
+CD Silver Clearcoat Metallic : $0.0
+Pitch Black Clearcoat : $0.0
+Cloud 9 White Clearcoat : $0.0
+
+Transmission: 
+automatic : $0.0
+standard : $-815.0
+
+Brakes/Traction Control: 
+Standard : $0.0
+ABS : $400.0
+ABS with Advance Trac : $1625.0
+
+Air Bags: 
+present : $99.0
+not present : $0.0
+
+Power Moonroof: 
+present : $595.0
+not present : $0.0
+
+
+Side Impact Air Bags: 
+present : $350.0
+not present : $0.0
+
+Power Moonroof: 
+present : $595.0
+not present : $0.0
+
+
+Finished updating "Side Impact Air Bags":
+
+Model: FordZTW
+Base Price: $18445.0
+
+Color: 
+Fort Knox Gold Clearcoat Metallic : $0.0
+Liquid Grey Clearcoat Metallic : $0.0
+Infra-Red Clearcoat : $0.0
+Grabber Green Clearcoat Metallic : $0.0
+Sangria Red Clearcoat Metallic : $0.0
+French Blue Clearcoat Metallic : $0.0
+Twilight Blue Clearcoat Metallic : $0.0
+CD Silver Clearcoat Metallic : $0.0
+Pitch Black Clearcoat : $0.0
+Cloud 9 White Clearcoat : $0.0
+
+Transmission: 
+automatic : $0.0
+standard : $-815.0
+
+Brakes/Traction Control: 
+Standard : $0.0
+ABS : $400.0
+ABS with Advance Trac : $1625.0
+
+Air Bags: 
+present : $99.0
+not present : $0.0
+
+Power Moonroof: 
+present : $595.0
+not present : $0.0

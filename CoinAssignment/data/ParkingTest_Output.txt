@@ -1,0 +1,20 @@
+1)Test Case-1
+Minutes parked = 120 is within minutes allowed =  200
+
+No ticket will be issued for minutes paid = minutes allowed 
+Summary of Parking Ticket [car = parking.ParkedCar@2a139a55, officer = parking.PoliceOfficer@15db9742, fine=15.0, extra minutes=-80, BASE_FINE=25.0, HOURLY_FINE=10.0]
+
+
+2)Test Case-2
+Minutes parked = 200 equals minutes allowed =  200
+
+No ticket will be issued for minutes parked = minutes allowed 
+Summary of Parking Ticket [car = parking.ParkedCar@2a139a55, officer = parking.PoliceOfficer@15db9742, fine=25.0, extra minutes=0, BASE_FINE=25.0, HOURLY_FINE=10.0]
+
+3)Test Case-3
+Minutes parked = 200 exceeded  minutes allowed =  120
+
+Ticket will be issued for extra parking time in minutes = 80
+Summary of Parking Ticket [car = parking.ParkedCar@2a139a55, officer = parking.PoliceOfficer@15db9742, fine=45.0, extra minutes=80, BASE_FINE=25.0, HOURLY_FINE=10.0]
+
+
